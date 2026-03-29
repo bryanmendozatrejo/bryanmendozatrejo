@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 **I'm Bryan Mendoza-Trejo** 🇲🇽
 ##### Data Scientist | Data Engineer
 * 📍  I'm based in Orange County, CA
-* ✉️  You can contact me via [LinkedIn](https://www.linkedin.com/in/bryanmendozatrejo)
+* ✉️  Connect with me via [LinkedIn](https://www.linkedin.com/in/bryanmendozatrejo)
 ------------------
 ### About Me
 
