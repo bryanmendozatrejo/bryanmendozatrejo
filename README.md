@@ -4,6 +4,7 @@ Welcome to my GitHub profile!
 ##### Data Scientist | Data Engineer
 * 📍  I'm based in Orange County, CA
 * ✉️  Connect with me via [LinkedIn](https://www.linkedin.com/in/bryanmendozatrejo)
+* 🔗  Checkout my site! [Website](https://bryanmendozatrejo.github.io)
 ------------------
 ### About Me
 
