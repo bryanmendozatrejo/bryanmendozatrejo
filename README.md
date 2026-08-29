@@ -5,6 +5,7 @@ Welcome to my GitHub profile!
 * 📍  I'm based in Orange County, CA
 * ✉️  Connect with me via [LinkedIn](https://www.linkedin.com/in/bryanmendozatrejo)
 * 🔗  Checkout my site! [Website](https://bryanmendozatrejo.github.io)
+* 📝  Download my resume! [Resume](https://bryanmendozatrejo.github.io/Bryan_Mendoza_Resume_2026_Sample.pdf)
 ------------------
 ### About Me
 
