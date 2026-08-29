@@ -1,22 +1,22 @@
 Welcome to my GitHub profile!
 =====================================================================================================================================
 **I'm Bryan Mendoza-Trejo** 🇲🇽
-##### Data Scientist | Data Engineer
+##### Data Engineer @ Panasonic
 * 📍  I'm based in Orange County, CA
 * ✉️  Connect with me via [LinkedIn](https://www.linkedin.com/in/bryanmendozatrejo)
 * 🔗  Checkout my site! [Website](https://bryanmendozatrejo.github.io)
 ------------------
 ### About Me
 
-I’m currently a Data Scientist at Panasonic Avionics, where I work heavily on the data engineering side -building ETL pipelines and analytics workflows using Python and AWS (Glue, Athena, Lambda, QuickSight, and more). My day-to-day focuses on turning raw aviation data into clean, reliable datasets that power reporting and decision-making.
+I'm currently a Senior Data Software Engineer at Panasonic Avionics, where I work heavily on the data engineering side including building ETL pipelines and analytics workflows using Python and AWS (Glue, Athena, Lambda, QuickSight, and more). My day-to-day focuses on turning raw aviation data into clean, reliable datasets that power reporting and decision-making.
  
-Over time, I’ve taken on more ownership of production pipelines, data quality, and operational support, which has naturally pushed me toward a data engineering focus. I enjoy working on scalable systems and solving data reliability challenges across teams.
+Over time, I've taken on more ownership of production pipelines, data quality, and operational support, which has naturally pushed me toward a data engineering focus. I enjoy working on scalable systems and solving data reliability challenges across teams.
  
-I have a Bachelor’s in Computer Science from Cal State Fullerton and am currently pursuing my Master’s in Computer Science with an emphasis in Data Science and Artificial Intelligence.
+I have a Bachelor's in Computer Science from Cal State Fullerton and I'm currently pursuing my Master's in Computer Science with an emphasis in Data Engineering, Data Science and Artificial Intelligence (GenAI).
 
 ### Experience
 
-<img src="https://cdn.simpleicons.org/panasonic/0061A0" width="20" height="20" alt="Panasonic" /> &nbsp; Panasonic Avionics Corporation <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Data Scientist II | Data Engineer** &nbsp; `2022 – Present`
+<img src="https://cdn.simpleicons.org/panasonic/0061A0" width="20" height="20" alt="Panasonic" /> &nbsp; Panasonic Avionics Corporation <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Senior Data Engineer | Data Scientist II** &nbsp; `2022 – Present`
 
 ### Education
 
